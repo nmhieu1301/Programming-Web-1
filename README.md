@@ -1,2 +1,2 @@
-# -n-l-p-tr-nh-web1
+# Lập trình web 1 - KHTN
 Trương Ngọc Hân, Nguyễn Minh Hiếu, Phan Trường Khang, Đỗ Đăng Khoa
